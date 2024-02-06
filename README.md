@@ -33,7 +33,7 @@ To get started with the app, follow these steps:
 You can try out the Patient Tracker App by following these steps:
 
 1. Install the Expo Go app on your mobile device.
-2. Open the Expo Go app and scan the QR code from this link: https://expo.dev/@hamzashaikh456/patient-tracker-app
+2. Open the Expo Go app and scan the QR code from this link:
 
 
 
