@@ -22,7 +22,7 @@
 
 To get started with the app, follow these steps:
 
-1. Clone this repo to your local machine using `https://github.com/mhamzashaikh/React-Native-Patient-Tracker-App.git`
+1. Clone this repo to your local machine
 2. Install all dependencies by running `npm install`
 3. Create a Firebase RealTime DB project and configure it in `firebaseConfig.js`
 4. Start the app with `expo start`
